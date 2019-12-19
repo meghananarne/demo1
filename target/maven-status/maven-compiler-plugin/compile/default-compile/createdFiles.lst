@@ -1,0 +1,17 @@
+com\example\demo\DemoApplication.class
+com\example\demo\task\StudentReader.class
+com\example\demo\task\StudentProcessor.class
+com\example\demo\task\StudentWriter.class
+com\example\demo\config\KafkaProducerConfig.class
+com\example\demo\repository\Employee.class
+com\example\demo\config\StudentJobLauncher.class
+com\example\demo\controller\StudentController.class
+com\example\demo\repository\BaseEntity.class
+com\example\demo\model\EmployeeVO.class
+com\example\demo\repository\StudentRepository.class
+com\example\demo\model\BaseVO.class
+com\example\demo\config\ApplicationPropertyConfig.class
+com\example\demo\repository\JpaQueryProviderImpl.class
+com\example\demo\model\StudentVO.class
+com\example\demo\repository\Student.class
+com\example\demo\config\BatchConfig.class
